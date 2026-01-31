@@ -59,7 +59,7 @@ git clone https://github.com/KrishnaAravapalli/mnist-tsne-clustering.git
 pip install -r requirements.txt
 
 # Step 3: Run the notebook
-# Open the following notebook and run all cells sequentially:
+ Open the following notebook and run all cells sequentially:
 mnist_tsne_kmeans_clustering.ipynb
 
 ## 📸 Screenshots
