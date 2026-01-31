@@ -56,7 +56,7 @@ Digit labels are used **only for evaluation**, not during clustering.
 git clone https://github.com/KrishnaAravapalli/mnist-tsne-clustering.git
 
 # Step 2: Install dependencies
-pip install numpy scikit-learn matplotlib plotly
+pip install -r requirements.txt
 
 # Step 3: Run the notebook
 # Open the following notebook and run all cells sequentially:
